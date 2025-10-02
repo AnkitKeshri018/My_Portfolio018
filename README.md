@@ -1,59 +1,82 @@
-# 🌐 Animated Portfolio Website
+# Ankit Keshri Portfolio
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This project gained **27K+ views** on [YouTube]([https://youtube.com/your-video-link](https://youtu.be/ypSc8HEurGQ?si=yI3GJCye3sAKoemW)) – loved by developers and students for its modern design and clean code.
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a Full-Stack Developer. It is built using modern web technologies and designed to be fast, responsive, and visually appealing.
+
+---
+
+## 🔹 Features
+
+- Responsive design for desktop and mobile devices
+- Interactive UI with smooth animations
+- **About Me** section with dynamic typing effect
+- **Projects & Work** section showcasing real-world projects
+- **Skills** section highlighting technical expertise
+- **Education & Experience** sections
+- **Contact Form** integrated with EmailJS for direct messages
+- Downloadable Resume button
+- Favicon and smooth navigation
+
+---
+
+## 🛠️ Technologies Used
+
+- **Frontend:** React, Vite, Tailwind CSS  
+- **JavaScript Libraries:** React Typing Effect, React Parallax Tilt  
+- **Backend (Contact Form):** EmailJS  
+- **Deployment:** Vercel  
+
+---
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+Check out the live portfolio here: [Portfolio Live](https://your-vercel-link.vercel.app)
 
-## 🛠️ Tech Stack
+---
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 💾 Vercel(for deployment)
+## 📂 Project Structure
 
-## 📁 Features
+Portfolio/
+│
+├─ public/ # Public assets like images and favicon
+├─ src/ # React components and styles
+│ ├─ components/
+│ ├─ assets/
+│ └─ index.css
+├─ package.json
+├─ tailwind.config.js
+├─ vite.config.js
+└─ README.md
 
-- Responsive design for all screen sizes 📱💻
-- Smooth scroll and animation effects ✨
-- Clean and modular React components 🧩
-- Easy to customize with Tailwind utility classes 🎯
-- Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
 
 
-## 🧑‍💻 How to Use
+## 📌 Installation
 
-### 1. Clone the Repo
-
-```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
-cd your-repo-name
-````
-
-### 2. Install Dependencies
+1. Clone the repo:
 
 ```bash
+git clone https://github.com/AnkitKeshri018/My_Portfolio018.git
+Navigate to the project folder:
+
+bash
+Copy code
+cd My_Portfolio018
+Install dependencies:
+
+bash
+Copy code
 npm install
-```
+Run locally:
 
-### 3. Run the App
+bash
+Copy code
+npm run dev
+📩 Contact
+You can reach me directly via the Contact Form on the portfolio or email me at your-email@example.com.
 
-```bash
-npm start
-```
+📄 License
+This project is open source and free to use.
 
-### 4. Build for Production
+Made with 💜 by Ankit Keshri
 
-```bash
-npm run build
-```
-
-## 📹 YouTube Tutorial
-
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 27K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
-
-## 🌟 Credits
-
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
+yaml
+Copy code
