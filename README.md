@@ -20,7 +20,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 🛠️ Technologies Used
 
-- **Frontend:** React, Vite, Tailwind CSS  
+- **Frontend:** HTML,CSS,JAVASCRIPT, ReactJS, Vite, Tailwind CSS  
 - **JavaScript Libraries:** React Typing Effect, React Parallax Tilt  
 - **Backend (Contact Form):** EmailJS  
 - **Deployment:** Vercel  
