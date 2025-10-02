@@ -78,5 +78,4 @@ This project is open source and free to use.
 
 Made with 💜 by Ankit Keshri
 
-yaml
-Copy code
+
