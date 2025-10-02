@@ -29,7 +29,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 🚀 Live Demo
 
-Check out the live portfolio here: [Portfolio Live](https://your-vercel-link.vercel.app)
+Check out the live portfolio here: https://portfolio-pi-nine-33.vercel.app/
 
 ---
 
